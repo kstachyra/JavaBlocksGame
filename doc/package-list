@@ -1,0 +1,7 @@
+pl.kstachyr.blocksgame
+pl.kstachyr.blocksgame.controller
+pl.kstachyr.blocksgame.defaults
+pl.kstachyr.blocksgame.event
+pl.kstachyr.blocksgame.model
+pl.kstachyr.blocksgame.model.board
+pl.kstachyr.blocksgame.view
